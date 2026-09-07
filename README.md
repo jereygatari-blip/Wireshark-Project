@@ -51,5 +51,6 @@ Captured and filtered network packets in Wireshark to examine:
 ## Takeaway
 
 This lab gave me hands-on experience analyzing network traffic and using Wireshark to investigate device communication and potential security issues.
+screenshots/.gitkeep
 
 
